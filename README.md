@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 ### `01` &nbsp;About
 
-I've spent 13+ years building and running production banking systems on the Finacle platform, across Infosys, EdgeVerve and Eximbank Vietnam. That covers core banking, cards, payments, integrations and the batch jobs that keep a bank's day running.
+I've spent 14+ years building and running production banking systems on the Finacle platform, across Infosys, EdgeVerve and Eximbank Vietnam. That covers core banking, cards, payments, integrations and the batch jobs that keep a bank's day running.
 
 Outside work I build products in Python and work hands-on with LLM applications: RAG, tool-calling agents, embeddings with pgvector, and checking AI output against real data. I like small, useful tools that do one job well.
 
